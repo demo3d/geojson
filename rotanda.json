@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.51816802096073,
+          50.256327228318696
+        ]
+      },
+      "properties": {
+        "marker-color": "#8000ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "fixture_name": "rotanda_na_nab",
+        "place_id": 675001,
+        "name": "Ротанда - Беседка на набережной",
+        "website": "http://www.dom-proect.ru"
+      }
+    }
+  ]
+}
